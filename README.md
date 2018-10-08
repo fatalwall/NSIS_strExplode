@@ -1,4 +1,4 @@
-# NSIS_strExplode
+# NSIS strExplode
 NSIS Library used to split a string into an array based on a separator character.
 
 For more information on NSIS please see http://nsis.sourceforge.net
